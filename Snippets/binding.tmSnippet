@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;xbl:binding id="${1:bindingId}"&gt;
+  &lt;xbl:content&gt;
+    $0
+  &lt;/xbl:content&gt;
+
+  &lt;xbl:implementation&gt;
+
+  &lt;/xbl:implementation&gt;
+
+  &lt;xbl:handlers&gt;
+
+  &lt;/xbl:handlers&gt;
+
+  &lt;xbl:resources&gt;
+
+  &lt;/xbl:resources&gt;
+&lt;/xbl:binding&gt;
+</string>
+	<key>name</key>
+	<string>binding</string>
+	<key>scope</key>
+	<string>text.xbl</string>
+	<key>tabTrigger</key>
+	<string>bind</string>
+	<key>uuid</key>
+	<string>7E9C0285-8D74-47B7-B324-13324420E3BD</string>
+</dict>
+</plist>

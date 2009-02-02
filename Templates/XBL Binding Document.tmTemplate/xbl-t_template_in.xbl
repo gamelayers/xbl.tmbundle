@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+	${TM_NEW_FILE_BASENAME}
+	Created by ${TM_FULLNAME} on ${TM_DATE}.
+	Copyright (c) ${TM_YEAR} ${TM_ORGANIZATION_NAME}. All rights reserved.
+-->
+
+<xbl:bindings id=""
+  			xmlns:xbl="http://www.mozilla.org/xbl"
+			xmlns:xul="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+  			xmlns:svg="http://www.w3.org/2000/svg"
+  			xmlns:xlink="http://www.w3.org/1999/xlink"
+			xmlns="http://www.w3.org/1999/xhtml">
+
+</xbl:bindings>

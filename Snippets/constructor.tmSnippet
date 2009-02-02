@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;xbl:constructor&gt;
+  &lt;![CDATA[
+    $0
+  ]]&gt;
+&lt;/xbl:constructor&gt;</string>
+	<key>name</key>
+	<string>constructor</string>
+	<key>scope</key>
+	<string>text.xbl</string>
+	<key>tabTrigger</key>
+	<string>const</string>
+	<key>uuid</key>
+	<string>97FE32DE-7A63-40BD-BC52-4BF3A6A5B956</string>
+</dict>
+</plist>

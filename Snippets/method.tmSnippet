@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;xbl:method name="${1:methodName}"&gt;${2:
+  &lt;xbl:parameter name="${3:paramName}" /&gt;}
+  &lt;xbl:body&gt;
+    &lt;![CDATA[
+      $0 
+    ]]&gt;
+  &lt;/xbl:body&gt;
+&lt;/xbl:method&gt;</string>
+	<key>name</key>
+	<string>method</string>
+	<key>scope</key>
+	<string>text.xbl</string>
+	<key>tabTrigger</key>
+	<string>meth</string>
+	<key>uuid</key>
+	<string>8E75ABD4-0003-47F2-A706-E72E3D9EC868</string>
+</dict>
+</plist>
