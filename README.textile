@@ -1,0 +1,5 @@
+h1. XBL Textmate Bundle
+
+Simple bundle that provides a template for binding files and snippets for bindings and binding members.
+
+See https://developer.mozilla.org/en/XBL for more info on XBL
